@@ -121,12 +121,18 @@ RESPONSIVES
   .has-sticky-header {
     padding-top: 50px;
   }
+  .hire-title{
+    margin-top: 35px;
+  }
+  .section-title{
+    font-size: 34px;
+  }
   .container {
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
   }
   .hero-content {
-    padding-top: 40px;
+    /* padding-top: 40px; */
     text-align: center;
   }
   .hero-figure {
